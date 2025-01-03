@@ -1,0 +1,17 @@
+.mobile-grid{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: gray;
+    position: sticky;
+    max-height: 100px;
+    z-index: 100;
+}
+
+/* div{
+    margin:10px;
+    border:1px solid black;
+} */
+
